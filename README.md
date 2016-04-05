@@ -30,7 +30,7 @@ Average score = sum(the Contribution of all the hashtags @ Tweetlvl ) for all tw
 (#of HashTags) = # of Hashtags in a Tweet
 
 #Notes:
-Before calculating the score, we always update the sliding window and remove the tweets which do not fall in the 60's window
+Before calculating the score, I always update the sliding window and remove the tweets which do not fall in the 60's window
 
 For example: if there are 4 hashtags(#A,#B,#C,#D) in a tweet, then the total contribution of this tweet is 3*4 = 12. 
 Similarly this score is calculated for each tweet and summed up for the tweets within the 60 second sliding window.
