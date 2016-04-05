@@ -1,3 +1,10 @@
+#The python libraries(Dependencies) which are required for this code to run are
+#1.pandas
+#2.os
+#3.datetime
+#4.timedelta
+#5.simplejson
+
 UniCountertags=list()
 def main():
     import os
