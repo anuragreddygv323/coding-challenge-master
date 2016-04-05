@@ -9,8 +9,11 @@ The Coding challenge was done in Python
 4.timedelta  
 5.simplejson  
 
-#How to run the code
+#Code elements:
+1. coding-challenge-master/src/new_final.py: Code refers to the file which calculates the average degree
+2. coding-challenge-master/run.sh: shell script 
 
+#How to run the code
 1. Run the run.sh file
 
 #Problem Statement:
