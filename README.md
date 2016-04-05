@@ -1,6 +1,6 @@
 #Insight Data Challenge
 
-The Coding challenge was done in Python
+The Coding challenge was done in Python 2.7
 
 #The python libraries(Dependencies) which are required for this code to run are
 1.pandas  
