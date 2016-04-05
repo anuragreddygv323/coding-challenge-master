@@ -9,7 +9,7 @@
 
 
 #Problem Statement:
-Each tweet has one or more hashtags. Calculate the rolling average scores as the new tweet comes by updating the 60 second sliding window with respect to the latest tweet.
+Each tweet has one or more hashtags. Calculate the rolling average degree score as the new tweet comes by updating the 60 second sliding window with respect to the latest tweet.
 
 #Background and the thought process to arrive at an algorithm to compute the rolling average degree
 Average score = (Sum of each hashtag score)/(# of unique hashtags)
