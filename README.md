@@ -26,7 +26,7 @@ Since the numerator of the score is a summation of all the hashtags score, we ca
 Average score = sum(the Contribution of all the hashtags @ Tweetlvl ) for all tweets /(# of unique hashtags)
 
 (sum of the Contribution of all the hashtags @ Tweetlvl )
-= #NewHashtags*( 2*#of HashTags -1 - #NewHashtags)
+= #NewHashtags*( 2*(#of HashTags) -1 - #NewHashtags)
 
 (#NewHashtags) = # of NewHastags which are there in the new tweet when compared to all the hashtags from the previous tweets included in the 60 second sliding window.
 (#of HashTags) = # of Hashtags in a Tweet
