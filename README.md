@@ -7,6 +7,9 @@
 4.timedelta--
 5.simplejson--
 
+#How to run the code
+
+1. Run the run.sh file
 
 #Problem Statement:
 Each tweet has one or more hashtags. Calculate the rolling average degree score as the new tweet comes by updating the 60 second sliding window with respect to the latest tweet.
