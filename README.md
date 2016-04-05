@@ -42,7 +42,7 @@ After Loading the tweets present in the tweets.txt
 
 1. Load each tweet into a rolling dataframe
 2. Add the new tags into a list which records the unique hashtags. Unique hastags will be updated everytime a new tweet comes
-2. Filter the tweets based on the 60 second sliding window
+2. Filter the tweets based on the 60 second sliding window with repect to the latest tweets time stamp
 3. Calculate the Contribution of all the hashtags @ Tweetlvl 
 4. Sum the Contribution of all the hashtags @ Tweetlvl for all tweets in the filtered dataframe
 5. Calculate the # of unique hastags from the list of unique hastags obtained after filtering tweets based on the 60's window
